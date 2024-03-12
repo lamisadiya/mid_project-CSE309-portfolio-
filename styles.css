@@ -19,6 +19,28 @@ footer{
 
 }
 
+.intro-image {
+    float: right;
+    margin-left: 20px;
+    max-width: 40%; 
+    height: auto;
+    border-radius: 1rem;
+}
+.education-image {
+    float: left;
+    margin-left: 20px;
+    margin-right: 40px;
+    max-width: 40%; 
+    height: 190px;
+    border-radius: 1rem;
+}
+.experience-image {
+    float: right;
+    margin-left: 20px;
+    height: 140px;
+    width: 750px;
+    border-radius: 1rem;
+}
 nav {
     text-align: left;
     margin-top: 20px;
